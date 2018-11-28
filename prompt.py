@@ -1,3 +1,7 @@
+#Original Author : mrpascal
+#Contact : ansarishahid640@gmail.com
+#Don't edit the code unless you know what you are doing.
+#If you use the code give proper credits to the author.
 import shutil
 import sys
 import time
